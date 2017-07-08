@@ -10,20 +10,21 @@
 
 ## 作品
 
--FiToBe圖書館
+- FiToBe圖書館
 
--FiToBe健康管理
+- FiToBe健康管理
 
--LazyTravel
+- LazyTravel
 
--YouTube搜尋
+- YouTube搜尋
 
--React部落格
+- React部落格
 
 
 ## 工作經歷
 
 ### WATICS Global Corporation (2016/03-2016/08)
-開發健康文章網站 (Node.js & jQuery)
+開發健康文章網站 (Node.js & jQuery) 
+
 開發健康Web App (React)
 
