@@ -1,7 +1,9 @@
 # 羅為遠 Lo Wei-Yuan
 
 電子信箱: ab889721@gmail.com
+
 手機: 0988603788
+
 個人網站: http://weiyuan1993.github.io/
 
 ## 教育程度
@@ -11,7 +13,6 @@
 ## 作品
 
 - [FiToBe圖書館](http://www.fitobe.com/blog/zh)
-
 
 - [FiToBe健康管理](http://www.fitobe.com/wapp)
 
