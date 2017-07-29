@@ -33,13 +33,13 @@
 第一次練習React寫的部落格，具備簡單的新增刪除功能。
 
 -  [U-Chat](http://u-chat-weiyuan.herokuapp.com/)
-大三的專題，是一款運行於firefox OS裝置的Web App，以node.js+socket.io寫成的即時聊天室，可進行多人聊天及私人訊息，附加功能有：傳圖片、大頭貼、聊天室背景、背景通知。
+大三的專題，是一款運行於firefox OS裝置的Web App，以node.js+socket.io寫成的即時聊天室，可進行多人聊天及私人訊息，畫面是自己完全手刻的，具備良好的RWD。附加功能有：傳圖片、大頭貼、聊天室背景、背景通知。
 
 
 ## 工作經歷
 
-### [WATICS Global Corporation](http://www.watics.com/)-Web Developer
-維德思全球股份有限公司 (2016/03-2016/08)
+### [WATICS Global Corporation](http://www.watics.com/)-Web Developer (2016/03~2016/08)
+維德思全球股份有限公司
 
 - XMPP聊天室，後來取消計畫
 
