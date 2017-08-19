@@ -35,6 +35,10 @@
 -  [U-Chat](http://u-chat-weiyuan.herokuapp.com/)
 大三的專題，是一款運行於firefox OS裝置的Web App，以node.js+socket.io寫成的即時聊天室，可進行多人聊天及私人訊息，畫面是自己完全手刻的，具備良好的RWD。附加功能有：傳圖片、大頭貼、聊天室背景、背景通知。
 
+-  [E-Card皇帝牌](https://goo.gl/vWZstS）
+大一的時候很喜歡看”賭博默示錄“，為它故事裡面的一款紙牌遊戲Ｅ-Card著迷，以Java寫成，是一款博弈卡牌遊戲。
+
+
 
 ## 工作經歷
 
