@@ -14,13 +14,18 @@
 
 大學時因為[Codecademy](https://www.codecademy.com/)而踏入Web領域，從基本的HTML、CSS到JavaScript，發現自己漸漸喜歡上網頁開發，並能實做出一些小作品。大四時開始到公司學習，充分學習到一個網頁工程師所應具備的技能，自己對於前端操作、畫面很有興趣，喜歡與使用者互動的部分，相信自己未來生涯已離不開Web領域。
 
+## 能力
+* 專精於Javascript、CSS、HTML、Node.js開發
+* 熟悉jQuery、React.js、Redux、MongoDB、Express.js
+* 擅長前後端API串接
+* 具備獨立開發能力
 ## 作品
 
 -  [FiToBe圖書館](http://www.fitobe.com/blog/zh)
 一個關於健康文章的網站，以express.js+jQuery寫成並架設在Google Cloud，除了後端資料API整個網站皆自己完成。學習到網站基礎架構以及串接後端工程師寫的的API，跟UI設計師討論畫面，並依照著設計師wireframe畫面手刻CSS。
 
 
-- [FiToBe健康管理](http://www.fitobe.com/wapp)
+-  [FiToBe健康管理](http://www.fitobe.com/wapp)
 實習公司的主要產品，能記錄飲食記錄及運動消耗，以React+Redux寫成，負責主架構分工及主畫面dashboard以及身體資訊頁面。
 
 -  [LazyTravel](https://lazytravel.herokuapp.com/)
