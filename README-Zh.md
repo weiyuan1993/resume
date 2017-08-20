@@ -30,13 +30,16 @@
 
 -  [LazyTravel](https://lazytravel.herokuapp.com/)  
 閒餘時間寫的旅遊規劃網站，是自己完成度最高的作品，可以在網站內搜尋景點、美食，並使用筆記功能記錄下來，擁有帳戶系統、可儲存多筆行程、推薦景點、收藏景點。
-  * 自己一手包辦前後端(Node.js+React+Redux)、資料庫(mongodb)、撰寫API，並使用Google Place API的景點資料。
+   * 自己一手包辦前後端(Node.js+React+Redux)、資料庫(mongodb)、撰寫API，並使用Google Place API的景點資料。
 
 -  [YouTube搜尋](http://www.weiyuan1993.byethost22.com/WebsiteDesign/React-YouTube/)
 使用YouTube API 並搭配React寫成的YouTube播放網站，並且可以無刷新搜尋影片。
 
 -  [React部落格](https://blog-for-react-redux.herokuapp.com/)
 第一次練習React寫的部落格，具備簡單的新增刪除功能。
+
+-  [WebRTC傳檔](http://www.weiyuan1993.byethost22.com/WebsiteDesign/file%20transfer/)  
+在寫聊天室時想要嘗試使用WebRTC API來實作檔案傳輸功能的小作品，雙方連上此網址即可馬上傳輸檔案，並能輸出傳輸進度。
 
 -  [U-Chat](http://u-chat-weiyuan.herokuapp.com/)
 大三的專題，是一款運行於**firefox OS**裝置的Web App，以Node.js為後台搭配socket.io寫成的即時聊天室，可進行多人聊天及私人訊息，畫面是自己完全手刻的，具備良好的RWD。附加功能有：傳圖片、大頭貼、聊天室背景、背景通知。
@@ -52,9 +55,9 @@
 Web Developer Intern 
 - XMPP聊天室，實習負責的Project，為公司開發基於XMPP協議的聊天室，用來幫助使用者與健身教練或營養師聯繫，然而開發到一半計畫腰斬。
 
-- 開發FiToBe健康文章網站 (Node.js & jQuery) 
+- 開發FiToBe圖書館 (Node.js & jQuery)，自己最滿意的作品，去年端午節有被五月天石頭分享其中文章到臉書。
 
-- 開發FiToBe健康管理Web App (React)
+- 開發FiToBe健康管理Web App (React)，第一次將React投入大專案中
 
 這半年內參與完成了幾樣產品，學習以SourceTree協同合作，了解如何與後端工程師的搭配（API 串接討論），能依照UI工程師給的wireframe畫面達成要求（css與套版基礎），在這半年裡磨練了自己獨立開發的能力以及解決問題的方法，相信自己能快速適應工作要求。
 
