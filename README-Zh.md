@@ -21,7 +21,7 @@
 
 -  [FiToBe圖書館](http://www.fitobe.com/blog/zh)  
 一個關於健康資訊的文章類型網站，以Express.js+jQuery寫成並架設在Google Cloud，除了後端資料API撰寫外，整個網站皆由自己完成。
-* 學習到網站基礎架構以及串接後端工程師寫的的API，跟UI設計師討論畫面，並依照著wireframe圖手刻前端CSS樣式。
+  * 學習到網站基礎架構以及串接後端工程師寫的的API，跟UI設計師討論畫面，並依照著wireframe圖手刻前端CSS樣式。
 
 
 -  [FiToBe健康管理](http://www.fitobe.com/wapp)  
@@ -30,7 +30,7 @@
 
 -  [LazyTravel](https://lazytravel.herokuapp.com/)  
 閒餘時間寫的旅遊規劃網站，是自己完成度最高的作品，可以在網站內搜尋景點、美食，並使用筆記功能記錄下來，擁有帳戶系統、可儲存多筆行程、推薦景點、收藏景點。
-  *  自己一手包辦前後端(Node.js+React+Redux)、資料庫(mongodb)、撰寫API，並使用Google Place API的景點資料。
+  * 自己一手包辦前後端(Node.js+React+Redux)、資料庫(mongodb)、撰寫API，並使用Google Place API的景點資料。
 
 -  [YouTube搜尋](http://www.weiyuan1993.byethost22.com/WebsiteDesign/React-YouTube/)
 使用YouTube API 並搭配React寫成的YouTube播放網站，並且可以無刷新搜尋影片。
@@ -48,8 +48,8 @@
 
 ## 工作經歷
 
-### [WATICS Global Corporation](http://www.watics.com/)維德思全球股份有限公司
-Web Developer Intern (2016/03~2016/08)
+### [WATICS Global Corporation](http://www.watics.com/) 維德思全球股份有限公司 (2016/03~2016/08)
+Web Developer Intern 
 - XMPP聊天室，實習負責的Project，為公司開發基於XMPP協議的聊天室，用來幫助使用者與健身教練或營養師聯繫，然而開發到一半計畫腰斬。
 
 - 開發FiToBe健康文章網站 (Node.js & jQuery) 
