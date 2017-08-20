@@ -33,19 +33,19 @@
    * 自己一手包辦前後端(Node.js+React+Redux)、資料庫(mongodb)、撰寫API，並使用Google Place API的景點資料。
 
 -  [YouTube搜尋](http://www.weiyuan1993.byethost22.com/WebsiteDesign/React-YouTube/)
-使用YouTube API 並搭配React寫成的YouTube播放網站，並且可以無刷新搜尋影片。
+  使用YouTube API 並搭配React寫成的YouTube播放網站，並且可以無刷新搜尋影片。
 
 -  [React部落格](https://blog-for-react-redux.herokuapp.com/)
-第一次練習React寫的部落格，具備簡單的新增刪除功能。
+  第一次練習React寫的部落格，具備簡單的新增刪除功能。
 
 -  [WebRTC傳檔](http://www.weiyuan1993.byethost22.com/WebsiteDesign/file%20transfer/)  
-在寫聊天室時想要嘗試使用WebRTC API來實作檔案傳輸功能的小作品，雙方連上此網址即可馬上傳輸檔案，並能輸出傳輸進度。
+  在寫聊天室時想要嘗試使用WebRTC API來實作檔案傳輸功能的小作品，雙方連上此網址即可馬上傳輸檔案，並能輸出傳輸進度。
 
 -  [U-Chat](http://u-chat-weiyuan.herokuapp.com/)
-大三的專題，是一款運行於**firefox OS**裝置的Web App，以Node.js為後台搭配socket.io寫成的即時聊天室，可進行多人聊天及私人訊息，畫面是自己完全手刻的，具備良好的RWD。附加功能有：傳圖片、大頭貼、聊天室背景、背景通知。
+  大三的專題，是一款運行於**firefox OS**裝置的Web App，以Node.js為後台搭配socket.io寫成的即時聊天室，可進行多人聊天及私人訊息，畫面是自己完全手刻的，具備良好的RWD。附加功能有：傳圖片、大頭貼、聊天室背景、背景通知。
 
 -  [E-Card皇帝牌](https://goo.gl/vWZstS)
-大一的時候很喜歡看”賭博默示錄“，為它故事裡面的一款紙牌遊戲Ｅ-Card著迷，以Java寫成，是一款博弈卡牌遊戲。
+  大一的時候很喜歡看”賭博默示錄“，為它故事裡面的一款紙牌遊戲Ｅ-Card著迷，以Java寫成，是一款博弈卡牌遊戲。
 
 
 
