@@ -45,7 +45,10 @@
 - [WebRTC傳檔](http://www.weiyuan1993.byethost22.com/WebsiteDesign/file%20transfer/)  
 在寫聊天室嘗試使用**WebRTC API**來實作檔案傳輸功能的小作品，雙方連上此網址即可馬上傳輸檔案，並能輸出傳輸進度。
 
--  [E-Card皇帝牌](https://goo.gl/vWZstS)  
+-  [Canvas打磚塊](http://www.weiyuan1993.byethost22.com/WebsiteDesign/brick/)    
+運用**HTML5 Canvas**特色開發的打磚塊小遊戲，具備音效回饋，可以觸控、滑鼠、鍵盤操作。
+
+-  [E-Card皇帝牌](https://goo.gl/vWZstS)  
 大一的時候很喜歡看”賭博默示錄“，為它故事裡面的一款紙牌遊戲Ｅ-Card著迷，以**Java**寫成，是一款博弈卡牌遊戲。
 
 
