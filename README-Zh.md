@@ -51,8 +51,8 @@
 
 ## 工作經歷
 
-### [WATICS Global Corporation](http://www.watics.com/) 維德思全球股份有限公司 (2016/03~2016/08)
-Web Developer Intern 
+### [WATICS Global Corporation](http://www.watics.com/) 維德思全球股份有限公司 (2016/03~2016/08) 
+#### Web Developer Intern 
 主要參與有：
 
 - XMPP聊天室，實習負責的Project，為公司開發基於XMPP協議的聊天室，用來幫助使用者與健身教練或營養師聯繫，然而開發到一半計畫腰斬。
