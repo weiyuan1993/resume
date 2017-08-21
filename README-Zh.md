@@ -33,7 +33,8 @@
    * 自己一手包辦前後端(**Node.js+React+Redux**)、資料庫(**MongoDB**)、撰寫API，並使用Google Place API的景點資料。
 
 -  [YouTube搜尋](http://www.weiyuan1993.byethost22.com/WebsiteDesign/React-YouTube/)  
-使用YouTube API 搭配**React**寫成的YouTube播放網站，並且可以無刷新搜尋影片，具備RWD及Material UI。
+使用YouTube API 搭配**React**寫成的YouTube播放網站，並且可以無刷新搜尋影片，具備RWD及Material UI。  
+   * 會做這個主要是因為當時自己手機老舊，運行YouTube APP非常緩慢，而官方網頁版太多附加功能也讓載入非常遲鈍，因此寫了一個純觀看與搜尋的Web App。
 
 -  [React部落格](https://blog-for-react-redux.herokuapp.com/)  
 第一次練習React寫的部落格，具備簡單的新增刪除功能。
