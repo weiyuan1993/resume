@@ -21,7 +21,7 @@
 ## 作品
 
 -  [FiToBe圖書館](http://www.fitobe.com/blog/zh)  
-一個關於健康資訊的文章類型網站，以Express.js+jQuery寫成並架設在Google Cloud Platform，除了後端資料API撰寫外，整個網站皆由自己完成。
+一個關於健康資訊的文章類型網站，以**Express.js+jQuery**寫成並架設在Google Cloud Platform，除了後端資料API撰寫外，整個網站皆由自己完成。
   * 學習到網站基礎架構以及串接後端工程師寫的的API，跟UI設計師討論畫面，並依照著wireframe圖手刻前端CSS樣式。
 
 -  [FiToBe健康管理](http://www.fitobe.com/wapp)  
@@ -30,22 +30,22 @@
 
 -  [LazyTravel](https://lazytravel.herokuapp.com/)  
 閒餘時間寫的旅遊規劃網站，是自己完成度最高的作品，可以在網站內搜尋景點、美食，並使用筆記功能記錄下來，擁有帳戶系統、可儲存多筆行程、推薦景點、收藏景點。
-   * 自己一手包辦前後端(Node.js+React+Redux)、資料庫(mongodb)、撰寫API，並使用Google Place API的景點資料。
+   * 自己一手包辦前後端(**Node.js+React+Redux**)、資料庫(**MongoDB**)、撰寫API，並使用Google Place API的景點資料。
 
 -  [YouTube搜尋](http://www.weiyuan1993.byethost22.com/WebsiteDesign/React-YouTube/)  
-使用YouTube API 並搭配React寫成的YouTube播放網站，並且可以無刷新搜尋影片。
+使用YouTube API 並搭配**React**寫成的YouTube播放網站，並且可以無刷新搜尋影片。
 
 -  [React部落格](https://blog-for-react-redux.herokuapp.com/)  
 第一次練習React寫的部落格，具備簡單的新增刪除功能。
 
 -  [U-Chat](http://u-chat-weiyuan.herokuapp.com/)  
-大三的專題，是一款運行於**firefox OS**裝置的Web App，以Node.js為後台搭配Socket.IO寫成的即時聊天室，可進行多人聊天及私人訊息，畫面是自己完全手刻的，具備良好的RWD。附加功能有：傳圖片、大頭貼、聊天室背景、背景通知。
+大三的專題，是一款運行於**firefox OS**裝置的Web App，以Node.js為後台搭配**Socket.IO**寫成的即時聊天室，可進行多人聊天及私人訊息，畫面是自己完全手刻的，具備良好的RWD。附加功能有：傳圖片、大頭貼、聊天室背景、背景通知。
 
   [WebRTC傳檔](http://www.weiyuan1993.byethost22.com/WebsiteDesign/file%20transfer/)     
-在寫聊天室嘗試使用WebRTC API來實作檔案傳輸功能的小作品，雙方連上此網址即可馬上傳輸檔案，並能輸出傳輸進度。
+在寫聊天室嘗試使用**WebRTC API**來實作檔案傳輸功能的小作品，雙方連上此網址即可馬上傳輸檔案，並能輸出傳輸進度。
 
 -  [E-Card皇帝牌](https://goo.gl/vWZstS)  
-大一的時候很喜歡看”賭博默示錄“，為它故事裡面的一款紙牌遊戲Ｅ-Card著迷，以Java寫成，是一款博弈卡牌遊戲。
+大一的時候很喜歡看”賭博默示錄“，為它故事裡面的一款紙牌遊戲Ｅ-Card著迷，以**Java**寫成，是一款博弈卡牌遊戲。
 
 
 
