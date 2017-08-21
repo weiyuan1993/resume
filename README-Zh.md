@@ -20,35 +20,35 @@
 
 ## 作品
 
--  [FiToBe圖書館](http://www.fitobe.com/blog/zh)  
+- [FiToBe圖書館](http://www.fitobe.com/blog/zh)  
 一個關於健康資訊的文章類型網站，以**Express.js+jQuery**寫成並架設在Google Cloud Platform，除了後端資料API撰寫外，整個網站皆由自己完成。
   * 學習到網站基礎架構以及串接後端工程師寫的的API，跟UI設計師討論畫面，並依照著wireframe圖手刻前端CSS樣式。
 
--  [FiToBe健康管理](http://www.fitobe.com/wapp)  
+- [FiToBe健康管理](http://www.fitobe.com/wapp)  
 實習公司的主要產品，能記錄每日飲食、營養素攝取及運動卡路里消耗等資訊，以**React+Redux**寫成，負責主架構分工及Dashboard主畫面以及身體資訊頁面。
    * 在公司決定開發這項產品時，沒人會使用React，那時的我剛好有碰過一些些，就決定叫我跟同事們講解如何使用React開發這個計畫並分工，從中第一次學習到協同合作的經驗。
 
--  [LazyTravel](https://lazytravel.herokuapp.com/)  
+- [LazyTravel](https://lazytravel.herokuapp.com/)  
 閒餘時間寫的旅遊規劃網站，是自己完成度最高的作品，可以在網站內搜尋景點、美食，並使用筆記功能記錄下來，擁有帳戶系統、可儲存多筆行程、推薦景點、收藏景點。
    * 自己一手包辦前後端(**Node.js+React+Redux**)、資料庫(**MongoDB**)、撰寫API，並使用Google Place API的景點資料。
 
--  [YouTube搜尋](http://www.weiyuan1993.byethost22.com/WebsiteDesign/React-YouTube/)  
+- [YouTube搜尋](http://www.weiyuan1993.byethost22.com/WebsiteDesign/React-YouTube/)  
 使用YouTube API 搭配**React**寫成的YouTube播放網站，並且可以無刷新搜尋影片，具備RWD及Material UI。  
    * 會做這個主要是因為當時自己手機老舊，運行YouTube APP非常緩慢，而官方網頁版太多附加功能也讓載入非常遲鈍，因此寫了一個純觀看與搜尋的Web App。
 
--  [React部落格](https://blog-for-react-redux.herokuapp.com/)  
+- [React部落格](https://blog-for-react-redux.herokuapp.com/)  
 第一次練習React寫的部落格，具備簡單的新增刪除功能。
 
--  [U-Chat](http://u-chat-weiyuan.herokuapp.com/)  
+- [U-Chat](http://u-chat-weiyuan.herokuapp.com/)  
 大三的專題，是一款運行於**firefox OS**裝置的Web App，以Node.js為後台搭配**Socket.IO**寫成的即時聊天室，可進行多人聊天及私人訊息，畫面是自己完全手刻的，具備良好的RWD。附加功能有：傳圖片、大頭貼、聊天室背景、背景通知。
 
 - [WebRTC傳檔](http://www.weiyuan1993.byethost22.com/WebsiteDesign/file%20transfer/)  
 在寫聊天室嘗試使用**WebRTC API**來實作檔案傳輸功能的小作品，雙方連上此網址即可馬上傳輸檔案，並能輸出傳輸進度。
 
--  [Canvas打磚塊](http://www.weiyuan1993.byethost22.com/WebsiteDesign/brick/)  
+- [Canvas打磚塊](http://www.weiyuan1993.byethost22.com/WebsiteDesign/brick/)  
 運用**HTML5 Canvas**特色開發的打磚塊小遊戲，具備音效回饋，可以觸控、滑鼠、鍵盤操作。
 
--  [E-Card皇帝牌](https://goo.gl/vWZstS)  
+- [E-Card皇帝牌](https://goo.gl/vWZstS)  
 大一的時候很喜歡看”賭博默示錄“，為它故事裡面的一款紙牌遊戲Ｅ-Card著迷，以**Java**寫成，是一款博弈卡牌遊戲。
 
 
