@@ -6,6 +6,7 @@
 
 個人網站: https://weiyuan1993.github.io/
 
+GitHub: https://github.com/weiyuan1993
 
 ## 簡介
 
