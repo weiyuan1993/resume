@@ -14,6 +14,7 @@ Have the habit of writing blog about my coding note.  Recent interest is self-st
 - Familiar with TypeScript (1+ year solid practical experience)
 - Experience in React.js, Vue.js framework
 - Experience in full stack development with Node.js
+- Knowledge of git flow workflow.
 
 ## Experience
 
@@ -43,9 +44,13 @@ Have the habit of writing blog about my coding note.  Recent interest is self-st
 
 ## Side Project
 
+- [JavaScript30](https://github.com/weiyuan1993/JavaScript30/blob/master/README.md)
+    - Challenge for using vanilla javascript to build 30 things without any framework and library.
+    - **Applied skills:** JavaScript, CSS, HTML
+
 - [LazyTravel](https://lazytravel.herokuapp.com/)
     - A travel website allows you to manage your trips, search for attractions and store in your account.
-    - **Applied skills:** React.js, Redux, MongoDB, Google Map API, Node.js, restful API
+    - **Applied skills:** React.js, Redux, MongoDB, Google Map API, Node.js, restful API, Heroku
 
 - [DashPlayer](https://github.com/weiyuan1993/dashPlayer)
     - Custom segment streaming video player using MPEG-DASH tech without any third party libary.
