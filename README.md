@@ -30,6 +30,7 @@ Have the habit of writing blog about my coding note.  Recent interest is self-st
 - **Applied skills**
     - Typescript, ES6, DroneCI, Grunt, Object-Orient design pattern.
     - Solve different browsers and iOS/Android device compatibility problem.
+    - Performance optimization for loading our code in shortest time.
     - Puppteer e2e testing, user behavior tracking
 
 **Front-end Intern** @ [WATICS Global Corporation](http://www.watics.com/), Mar. 2016 – July 2016
