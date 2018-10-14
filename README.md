@@ -11,9 +11,9 @@ Have the habit of writing blog about my coding note.  Recent interest is self-st
 ## Ability
 
 - Familiar with JavaScript(ES6), jQuery, CSS, HTML (1.5+ years experience)
-- Familiar with TypeScript (1+ year solid practical experience)
+- Familiar with TypeScript (1+ year practical experience)
 - Experience in React.js, Vue.js framework
-- Experience in full stack development with Node.js
+- Experience in back-end development with Node.js
 - Knowledge of git flow workflow.
 
 ## Experience
@@ -23,16 +23,15 @@ Have the habit of writing blog about my coding note.  Recent interest is self-st
 - **Responsibilities:** 
     - Develop and maintain the video ad player for desktop and mobile (**Main product for our company**)
     - Fully refactor desktop ad player code with OOP code style.
-    - Develop a variety of new ad formats and run on different devices and websites.
     - Implement video streaming technology for reducing bandwidth cost. 
     - Solving problems in hundreds of different devices, browsers and operating systems when ad program encounter trouble.
     - Maintain code quality on more than 50 mainstream  websites in Taiwan, which is executed more than 10 million times a month.
 
 - **Applied skills**
-    - Typescript, ES6, DroneCI, Grunt, Object-Orient design pattern.
+    - Typescript, ES6, DroneCI, Grunt, OOP.
     - Solve different browsers and iOS/Android device compatibility problem.
     - Performance optimization for loading our code in shortest time.
-    - Puppteer e2e testing, user behavior tracking
+    - Puppeteer e2e testing, user behavior tracking
 
 **Front-end Intern** @ [WATICS Global Corporation](http://www.watics.com/), Mar. 2016 – July 2016
 - **Responsibilities:** 
